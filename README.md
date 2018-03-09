@@ -1,4 +1,4 @@
-# Floating Action Button Menu - All credits to [clans](https://github.com/Clans)
+# [Floating Action Button Menu](https://github.com/Clans/FloatingActionButton) - All credits to [clans](https://github.com/Clans)
 # Fono
 Wallpaper setter with Permission Handling and Floating Action Button Menu
 
